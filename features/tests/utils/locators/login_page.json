@@ -1,0 +1,7 @@
+{
+    "username": "#username",
+    "password": "#password",
+    "login_button": "button[type='submit']",
+    "error_message": ".error-message",
+    "welcome_text": ".welcome-header"
+}

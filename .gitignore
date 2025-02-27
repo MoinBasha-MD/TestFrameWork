@@ -1,0 +1,8 @@
+# Ignore screenshots directory and its contents
+screenshots/
+
+# Ignore any PNG files that might be outside the screenshots directory
+*.png
+
+# Keep the screenshots directory itself
+!screenshots/.gitkeep

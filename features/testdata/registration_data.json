@@ -1,0 +1,14 @@
+{
+    "USER_REG_01": {
+        "name": "test_user_local",
+        "email": "test_local@example.com",
+        "password": "SecurePass123!",
+        "confirm_password": "SecurePass123!"
+    },
+    "USER_REG_02": {
+        "name": "test_user_staging",
+        "email": "test_staging@example.com",
+        "password": "StagePass456!",
+        "confirm_password": "StagePass456!"
+    }
+}

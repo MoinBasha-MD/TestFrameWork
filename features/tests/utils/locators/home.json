@@ -1,0 +1,6 @@
+{
+    "name_input": "#registration-form input[name='name']",
+    "email_input": "#registration-form input[name='email']",
+    "password_input": "#registration-form input[name='password']",
+    "submit_button": "#registration-form button[type=\"submit\"]"
+}
